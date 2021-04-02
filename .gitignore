@@ -298,6 +298,9 @@ node_modules/
 **/*.Server/ModelManifest.xml
 _Pvt_Extensions
 
+# Security certification and key
+ssl
+
 # Paket dependency manager
 .paket/paket.exe
 paket-files/
